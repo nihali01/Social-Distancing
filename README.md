@@ -1,4 +1,4 @@
-# Social-Distancing-using-YOLOv5
+# Social-Distancing-using-YOLOv3
 
 
 
